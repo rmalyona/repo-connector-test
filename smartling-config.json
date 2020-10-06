@@ -7,7 +7,7 @@
   ],
   "resourceSets": [
     {
-      "type"                      : "properties",
+      "type"                      : "javaProperties",
       "pathRegex"                 : "messages.properties",
       "translationPathExpression" : "${locale}/${originalFile.name}",
       "smartlingDirectives"       : [
